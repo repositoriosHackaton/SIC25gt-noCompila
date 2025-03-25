@@ -91,3 +91,8 @@ Las siguientes bibliotecas ya vienen incluidas con Python y no requieren instala
 
 ---
 
+### interfaz en funcionamiento
+
+![Interfaz](back/interfaz/interfaz.png)
+
+
